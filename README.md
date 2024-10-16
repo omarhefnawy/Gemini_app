@@ -1,6 +1,6 @@
-Project Report: Tech News
+Project Report:TechNewsWithGemini
 Title Page
-•	Title: Tech News
+•	Title: TechNewsWithGemini
 •	Author: Ashraf Abdo and Omar Hefnawy
 ________________________________________
 Abstract
@@ -67,7 +67,7 @@ Future improvements could include:
 •	Expanding the app to include a wider variety of topics beyond technology news.
 ________________________________________
 Conclusion
-In conclusion, [Your App Name] successfully combines technology news delivery with interactive AI features, providing users with a unique and engaging experience. The project enhanced my understanding of Flutter development and mobile app architecture. Moving forward, the insights gained from this project will serve as a foundation for future developments in mobile applications.
+In conclusion, TechNewsWithGemini successfully combines technology news delivery with interactive AI features, providing users with a unique and engaging experience. The project enhanced my understanding of Flutter development and mobile app architecture. Moving forward, the insights gained from this project will serve as a foundation for future developments in mobile applications.
 ________________________________________
 
 
